@@ -152,7 +152,7 @@ Put the abstract here.
 ** Introduction
 
 This is just an example to show how Orgmode\cite{orgmode} can be
-neatly used to write papers following the LLNCS latex style. Feel
+neatly used to write papers following the ACM latex style. Feel
 free to modify and distributed this as you wish.
 
 Be aware that this example is compatible with OrgMode 9.*. Earlier
